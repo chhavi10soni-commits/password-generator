@@ -1,4 +1,4 @@
-# Password Generator 🔐
+# Password Generator 
 
 This is a simple Python program that generates random passwords and also tells whether the password is strong or not. I made this project to practice Python basics like functions, loops and strings.
 
