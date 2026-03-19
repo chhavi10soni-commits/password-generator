@@ -52,7 +52,6 @@ Include symbols? (y/n): y
 ## Author
 
 Chhavi Soni
-NIMS University
 
 ---
 
